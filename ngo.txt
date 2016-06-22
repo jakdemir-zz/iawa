@@ -1,0 +1,28 @@
+Butun kaynaklardan datayi indirelim (jak kollarina kuvvet)
+Deduplicate edelim ve siteye koyalim 
+
+1) Global women network, hatta map yapmislar bunu direkt calabilir miyiz?  
+http://www.global-womens-network.org/wiki/Welcome_to_the_Global_Women%27s_Network
+
+2) Bu database'i bi kadincagiz hazirlamis ama 2005'ten bu yana update edilmemis.
+http://www.distel.ca/womlist/womlist.html
+
+3) Mapping the world, Hollandali bi okulun calismasi
+http://www.atria-kennisinstituut.nl/atria/eng/library_and_archive/informatiecentra_naam# 
+
+4) Rainn'in topladigi international centerlar
+http://www.rainn.org/get-help/sexual-assault-and-rape-international-resources
+
+5) One billion raising kampanyasinin topladiklari
+http://www.onebillionrising.org/about/look-whos-rising/
+
+6) National Council of Women Organizations'in memberlari
+http://www.womensorganizations.org/index.php?option=com_azcontentlist&Itemid=31
+
+
+Harita'da gostermemiz gereken data:
+Organizasyonun ismi
+Adresi (varsa)
+Websitesi (varsa)
+Telefonu (varsa)
+Email adresi (varsa)

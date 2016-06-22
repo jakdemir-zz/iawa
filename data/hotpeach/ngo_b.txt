@@ -1,0 +1,11 @@
+
+Algeria,  Algeria/balsam2011BNET.pdf,  B’net el Kahina  Tébessa, 35.407139, 8.1208639
+Austria,  http://www.wien.gv.at/menschen/frauen/servicestellen/frauentelefon.html,  Wien Frauentelefon, 48.2081743, 16.3738189
+Spain,  http://wrap.seigualdad.gob.es/recursos/search/SearchForm.action,  Web de Recursos: Búsqueda de recursos de apoyo  en casos de violencia de género , na, na
+Tanzania,  http://www.tgnp.org/,  Tanzania Gender Networking Programme, na, na
+Quebec,  http://www.ffq.qc.ca/,  Fédération des femmes du Québec (FFQ), 46.8032826, -71.242796
+Austria,  http://www.frauenzentrum.at/,  Linz, 48.30694, 14.28583
+Connecticut,  http://www.sneha.org/,  Sneha, 41.6032207, -73.087749
+Puerto,  http://www.koineinteractivo.com/paz/,  Coordinadora Paz para la Mujer/Coalición Puertorriqueña contra la Violencia Doméstica y la Agresión Sexual, na, na
+Czech,  http://www.bkb.cz/,  Bílý kruh bezpečí, na, na
+Washington,  http://www.kccadv.org/get-help/support-services/,  Support & Services, 47.2775578, -122.2309387
